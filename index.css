@@ -81,6 +81,7 @@ body{
     /* transform: translate(-50%, -50%); */
     font-family: sans-serif;
     user-select: none;
+    justify-content: center;
 }
 .center h1{
     color:white;
@@ -88,4 +89,7 @@ body{
     font-weight: bold;
     width: 900px;
     text-align: center;
+}
+.menu-bar .fa{
+    float: left;
 }
